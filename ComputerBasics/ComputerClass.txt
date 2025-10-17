@@ -1,0 +1,184 @@
+==========================================================================================
+Class 1
+Computer
+
+Software Programing Language
+Types - PC/Laptop, Mobile (Android/iPhone), OpenAI/Tally/Zoho
+
+Cobol
+C,C++
+Java
+Php
+Python
+Javascript - Browser
+Dart - Flutter App
+GoLang - Back End
+
+WhatsApp
+Google Meet
+
+What are tools or frame work
+Eclipse, visual code, 
+notepad++, 
+windows media player etc
+IDE 
+Framework - Anaconda
+
+File types and size – text, doc, xls, bin, exe
+
+Easy Programing - Difficult - Slow run time
+Learn hardway - Then everything is easy
+
+Data - Save and show is computer for Human being
+Types of Data
+Structured
+Semi Structured
+Unstructed
+
+Binary
+
+Human Being Brain - Data/Picture/Voice
+
+Any programing languages learn way
+
+Data types
+String - Safan, Shanu, Unni, Messi10 
+Int 1,2,3
+Float,Decimal - 10.50 , 2.00
+Array [1,2,3,4], ["A","B","C","Daddy"]
+Object, Key Value Pair {"ID":100,"NAME":"RSY Turf","Rates":120.50,"obj":{},"AR":[]}
+
+Data Storage
+Database - MySQL, Oracle, Teradata 
+NoSQL DB - MangoDB, Firebase
+Hadoop - Terbytes of data | Google Copy
+
+Front End (Client)
+Back End (Server)
+
+Class 2
+==========================================================================================
+Binary exe file
+Program Compiling - Source code compiled to bytecode. 
+Java Virtual Machine, Python interpretor, Php, Javascript
+Program installing
+Environment files - Global
+Libraries
+
+visual basic studio
+vbs file
+D:\ComputerBasics
+
+https://youtu.be/3qC3MdyyXeY
+https://www.java.com/en/download/manual.jsp
+Go to downloads
+Windows
+JDK download
+C:\Program Files\Java\jdk-25\bin
+java --version
+
+Data Types - Byte, Short, Long, Float, Char, Boolean
+Arrays, Classes, Interfaces
+int num=10
+double d = 10.25
+boolean isCheck = true
+char letter = "A"
+string name = "MyName"
+
+Constant
+Variables - RAM
+Static
+Dynamic
+
+Conversion
+d = num (int to double)
+int fromD = (int) d (Double to int)
+
+Arithmatic operations
++,-,/,x*,%
+
+Relational Operators
+==, !=, >, <, >+, <=
+
+Logical Operators
+AND, OR, NOT &&, ||, !
+
+Conditional
+IF ELSE
+IF ELSE IF
+
+Ternary Operator
+condition ? exp1 : exp2
+
+Switch Statement
+Switch (variable) {
+    case 1: print
+    case 2: print
+    case 3: print
+    default
+   }
+
+Looping programs
+For Loop - When number of iteration known
+While Loop - Repeat loop until a condition satisfies
+Do While Loop - Use when loop should execute atleast once.
+
+JDK - Java development Kit
+JRE - Java Runtime environment - provides libraries and JVM for running java
+JVE - Java virtual Machine - Converts bytecode into machine code and executes it
+
+Class/Objects
+Class - Blue print or Template of a objects
+Object - Instance of a class with a state and behavior
+
+Class car {
+    String color;
+    void drive();    
+}
+
+Methods/Functions
+Blocks of code to invoke specific tasks, invokes by calling it
+
+Arguments/Parameters
+Calling/Invoking
+Return/Data Type
+
+class Calculator {
+    int add(int a, int b) {
+        return a+b;
+    }
+
+    public static void main(String[] args) {
+        Calculator calc = new Calculator();
+        int sumValue = calc.add(10,20);
+        System,put.println(sumValue);
+    }
+}
+
+Array - Store Multiple elements of same Data Type. Python different Data types
+AryInts = [1,2,3,4,5]
+AryStrings = ["Rahul,"Shanu","Safan","Unni"]
+           0,1,2,3,4
+
+AryInts[2] = 3
+AryStrings[2] = "Safan"
+
+Multidimentional Array
+int[][]
+[[1,2],[3,4],[5,6]]
+
+*** 1 *** 2
+*** 3 *** 4
+*** 5 *** 6
+
+Naming conventions
+
+MathOperator
+math_operator
+mathOperator
+
+import packages
+export class
+
+Python program basics
+https://www.linkedin.com/posts/yash-62449832a_140-basic-python-programs-activity-7380994830824427520-Oa86?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE7X7I8Bk_7p3Jp5AWlpAjgZTNcApWN0aOs

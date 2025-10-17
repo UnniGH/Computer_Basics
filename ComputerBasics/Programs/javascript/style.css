@@ -1,0 +1,17 @@
+/* CSS styles for the body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightblue;
+    color: #333;
+    margin: 20px;
+    padding: 20px;
+}
+/* CSS styles for a heading */
+h1 {
+    color: navy;
+    text-align: center;
+}
+/* CSS styles for a paragraph */
+p {
+    line-height: 1.6;
+}
